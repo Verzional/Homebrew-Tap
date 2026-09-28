@@ -16,7 +16,5 @@ cask "cryptonotch" do
 
   app "CryptoNotch.app"
 
-  zap trash: [
-    "~/Library/Preferences/com.verzional.CryptoNotch.plist",
-  ]
+  zap trash: "~/Library/Preferences/com.verzional.CryptoNotch.plist"
 end
