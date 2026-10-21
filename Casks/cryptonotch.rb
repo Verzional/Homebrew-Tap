@@ -1,6 +1,6 @@
 cask "cryptonotch" do
-  version "1.6.4"
-  sha256 "212aa1c3367cf3f620703c1c701a1da2a684cab17954a68ee63eed94e31c46ab"
+  version "1.6.5"
+  sha256 "bc8577b5ebec85cc996dad4a777a02d932b51efb148900a087f3c380758f097e"
 
   url "https://github.com/Verzional/CryptoNotch/releases/download/v#{version}/CryptoNotch.dmg"
   name "CryptoNotch"
